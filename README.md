@@ -48,15 +48,18 @@
 
 ## Скриншоты проекта
 
-- **Главное меню**
+# **Главное меню**
+
   ![image](https://github.com/user-attachments/assets/59c4a1bc-ebab-41eb-a5a1-315a2640305b)
 
-- **Теоретический материал**
+# **Теоретический материал**
+
   ![image](https://github.com/user-attachments/assets/d829e206-f91f-415a-bd2d-e6ceca4aa769)
   ![image](https://github.com/user-attachments/assets/3b82cf3d-06de-478d-a193-a66615ae0abe)
 
 
-- **Практические упражнения**
+# **Практические упражнения**
+
   ![image](https://github.com/user-attachments/assets/89c03ebe-515a-49cc-b0a4-7b55d6b247f6)
   ![image](https://github.com/user-attachments/assets/1a548209-e285-44e1-99ea-04a5d7030340)
 
